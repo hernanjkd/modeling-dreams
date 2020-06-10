@@ -1,0 +1,138 @@
+body 
+{
+	top: 0px;
+  	width: 927px;
+  	margin: auto;
+}
+
+  a.leticia img
+  {
+	position: absolute;
+	border: groove white 3px;
+  }
+
+div.main
+{
+	background-image: url('../images/build/lightblue.jpg');
+	width: 927px;
+	border: solid black 1px;
+	border-top: none;
+}
+
+div.foot
+{
+	background-color: #ff9999;
+	border-top: solid black 1px;
+}
+
+div.text-title
+{
+	width: 927px;
+	text-align: center;
+	font-family: times;
+	color: #ff9999;
+}
+
+img.upload
+{
+	border: solid black 1px;
+}
+
+p.blue
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 5px;
+	text-indent: 15px;
+}
+
+p.pink
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 5px;
+	text-indent: 15px;
+	background-color: #ff9999;
+	border: solid black 1px;
+}
+
+table.main
+{
+	position: relative;
+	left: 30px;
+	top: -40px;
+}
+  table.main td
+  {
+	vertical-align: top;
+  }
+
+  table.buttons img
+  {
+	position: absolute;
+	cursor: pointer;
+	border: none;
+  }
+  table.buttons td
+  {
+	height: 50px;
+  }
+  table.buttons #leticia img
+  {
+	border: groove white 3px;
+  }
+
+table.hButtons
+{
+	margin: auto;
+}
+  table.hButtons td
+  {
+	height: 50px;
+	vertical-align: top;
+  }
+  table.hButtons img
+  {
+	position: absolute;
+	border: none;
+  }
+
+table.img
+{
+	width: 920px;
+	text-align: center;
+}
+  table.img td
+  {
+	text-align: center;
+	vertical-align: top;
+	padding: 10px;
+	padding-bottom: 20px;
+	width: 5px;
+  }
+  table.img td img
+  {
+	border: solid black 1px;
+  }
+
+td.title
+{
+	vertical-align: top;
+}
+  td.title img
+  {
+	position: absolute;
+  }
+  td.title #centerPic
+  {
+	position: relative;
+	top: 120px;
+	left: -60px;
+	cursor: default;
+	border: groove white 5px;
+  }
+
+img.sub
+{
+	visibility: hidden;
+}
